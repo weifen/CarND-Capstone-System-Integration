@@ -5,7 +5,7 @@ In this project, my teammates and I developed a system which integrated multiple
 |Name              |Udacity Account Email Address|
 |------------------|-----------------------------|
 |Sahil Bahl        |bahlsahil28@gmail.com        |
-|Akiyuki Ishikawa  |aski.y.ishikawa@gmail.com    |
+|Akiyuki Ishikawa  |aki.y.ishikawa@gmail.com    |
 |Muhsin Mohamn     |askmuhsin@gmail.com          |
 |Wei-Fen Lin       |weifen@mijotech.net          |
 
